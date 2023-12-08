@@ -8,7 +8,9 @@
 
 <hr>
 
-   | 🏫 |<p>High School :<pre>SMK St. George</p></pre><p>College :<pre> Perak Matriculation College</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+   | 📛 |<p>Name :<pre>ELIJAH SHE YU SHENG </p></pre>
+   <p>College :<pre> Perak Matriculation College</pre>
+   </p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
 | :computer::iphone:| Playing Games|
 
