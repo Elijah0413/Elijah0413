@@ -2,13 +2,13 @@
 <head>
 <center>
 <p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Np0GBElyfnYqW_W0MN4SpDYToMwbHPtMDQ&=CAU" height="50" ; width="200"> </p>
-<p style="text-align: right"> fun fact </p>
+
 
 </head>       
 <h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/ username=Elijah0413&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah0413" /> </p>
 <hr>
-
+<p style="text-align: right"> fun fact </p>
    <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
        | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
    <p> | 🏫 | College :   <pre> Labuan Matriculation College   </pre></p> 
