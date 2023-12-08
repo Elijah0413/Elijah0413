@@ -7,8 +7,10 @@
 <h1 style="text-align: center"> Whatsupppppp ~ _~👋</h1>
 
 <hr>
-
-   <p> | 📛 | Name : <pre><FONT COLOR="#3341FF "> ELIJAH SHE YU SHENG </FONT> </p></pre>
+p {
+  color: skyblue;
+}
+   <p> | 📛 | Name : <pre> ELIJAH SHE YU SHENG </p></pre>
    <p> | 🏫 | College :<pre> Labuan Matriculation College </pre>
    </p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
