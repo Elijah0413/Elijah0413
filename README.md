@@ -14,4 +14,6 @@
 
 -✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿 <br>
 
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elijah0413" alt="Elijah0413" /></a> </p>
 <p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah0413&" alt="Elijah0413" /><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Elijah0413&show_icons=true&locale=en" alt="Elijah0413" /></p>
