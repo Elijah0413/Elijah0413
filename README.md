@@ -7,9 +7,8 @@
 <h1 style="text-align: center"> Whatsupppppp ~ _~👋</h1>
 
 <hr>
-|:house:| Taiping, Perak |
-|--|--|
-   | :books: |<p>High School :<pre>SMK St. George</p></pre><p>College :<pre> Perak Matriculation College</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+
+   | 🏫 |<p>High School :<pre>SMK St. George</p></pre><p>College :<pre> Perak Matriculation College</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
 | :computer::iphone:| Playing Games|
 
