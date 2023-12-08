@@ -8,7 +8,7 @@
 <h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/ username=Elijah0413&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah0413" /> </p>
 <hr>
-<h2 style="text-align: right"> fun fact </h2>
+<h2 style="text-align: right"> fun fact: DIDN'T LIKE PRAWN A ALL💢 </h2>
    <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
        | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
    <p> | 🏫 | College :   <pre> Labuan Matriculation College   </pre></p> 
