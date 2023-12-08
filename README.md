@@ -8,7 +8,7 @@
 
 <hr>
 
-   <p> | 📛 | Name : <pre><FONT COLOR="#3341FF "> ELIJAH SHE YU SHENG </p></pre>
+   <p> | 📛 | Name : <FONT COLOR="#3341FF "><pre> ELIJAH SHE YU SHENG </p></pre>
    <p> | 🏫 | College :<pre> Labuan Matriculation College </pre>
    </p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
