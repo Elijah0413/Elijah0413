@@ -7,11 +7,10 @@
 <h1 style="text-align: center"> Whatsupppppp ~ _~👋</h1>
 <hr>
 
-  <p> | 📛 | Name : <pre> ELIJAH SHE YU SHENG </p></pre>
-   <p> | 🏫 | College :<pre> Labuan Matriculation College </pre>
-   </p> <p>University :<pre> University Technology Malaysia </pre>|
-| :basketball:|Basketballer|
-| :computer::iphone:| Playing Games|
+   <p> | 📛 | Name : <pre> ELIJAH SHE YU SHENG </p></pre>
+   <p> | 🏫 | College :<pre> Labuan Matriculation College </pre></p> 
+   <p> | 🏡 | University :<pre> University Technology Malaysia </pre></p>
+   <p> | 🏸 | Hobby :<pre> Palying Badmintoon </pre></p>
 
 -✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿 <br>
 
