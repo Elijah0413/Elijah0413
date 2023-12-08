@@ -8,6 +8,5 @@
 
 <hr>
 |🇸🇷:| JAH JAH|
--✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿
-|--|--|
-|::|
+-✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿 <br>
+
