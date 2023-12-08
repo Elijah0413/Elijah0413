@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Np0GBElyfnYqW_W0MN4SpDYToMwbHPtMDQ&=CAU" height="50" ; width="200"> </p>
 
 </head>
-<h1 style="text-align: center"> Whatsupppppp ~ _~👋                  Fun Fact👑                       </h1>
+<h1 style="text-align: left"> Whatsupppppp ~ _~👋                 style="text-align: right">Fun Fact👑                       </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/ username=Elijah0413&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah0413" /> </p>
 <hr>
 
