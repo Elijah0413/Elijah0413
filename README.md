@@ -6,10 +6,8 @@
 </head>
 <h1 style="text-align: center"> Whatsupppppp ~ _~👋</h1>
 <hr>
-<h2 style="font-family:verdana;">This is a heading</h2>
-<p style="font-family:courier;">This is a paragraph.</p>
 
-  <p><style="color: skyblue"> | 📛 | Name : <pre> ELIJAH SHE YU SHENG </p></pre>
+  <p> | 📛 | Name : <pre> ELIJAH SHE YU SHENG </p></pre>
    <p> | 🏫 | College :<pre> Labuan Matriculation College </pre>
    </p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
