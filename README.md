@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 <center>
-<p align="center"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Np0GBElyfnYqW_W0MN4SpDYToMwbHPtMDQ&=CAU](https://drive.google.com/file/d/11iOadZdueK6-BZP6T6JGYn6OKqsRkAhW/view?usp=drive_link)" height="640" ; width="360"> </p>
+<p align="center"> <img src="https://drive.google.com/file/d/11iOadZdueK6-BZP6T6JGYn6OKqsRkAhW/view" height="100" ; width="100"> </p>
 
 
 </head>       
