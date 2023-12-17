@@ -2,7 +2,7 @@
 <head>
 <center>
 <p align="center"> <img src="https://www.pngitem.com/pimgs/m/165-1659817_hello-tulisan-hello-png-transparent-png.png" height="100" ; width="500"> </p>
-
+[GitHub Profile Views Counter]: https://github.com/Elijah0413/Elijah0413/github-profile-views-counter
 
 </head>       
 <h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
