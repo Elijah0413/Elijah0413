@@ -2,11 +2,10 @@
 <head>
 <center>
 <p align="center"> <img src="https://www.pngitem.com/pimgs/m/165-1659817_hello-tulisan-hello-png-transparent-png.png" height="100" ; width="500"> </p>
-![visitors](https://vbr.wocr.tk/badge?page_id=Elijah0413.Elijah0413&color=00cf00)
 
 </head>       
 <h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
-
+![visitors](https://vbr.wocr.tk/badge?page_id=Elijah0413.Elijah0413&color=00cf00)
 <h2 style="text-align: right"> FUN FACT: DIDN'T LIKE PRAWN A ALL💢 </h2>
    <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
        | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
