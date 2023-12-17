@@ -5,7 +5,7 @@
 
 </head>       
 <h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
-![Visitors Count](https://githubcounter.herokuapp.com/?Username=Elijah0413&RepoName=Elijah0413&Counter=True)
+
 <h2 style="text-align: right"> FUN FACT: DIDN'T LIKE PRAWN A ALL💢 </h2>
    <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
        | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
