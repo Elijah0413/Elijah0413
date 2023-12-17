@@ -2,7 +2,7 @@
 <head>
 <center>
 <p align="center"> <img src="https://www.pngitem.com/pimgs/m/165-1659817_hello-tulisan-hello-png-transparent-png.png" height="100" ; width="500"> </p>
-![hei](https://komarev.com/ghpvc/?username=Elijah0413&label=PROFILE+VIEWS)
+![visitors](https://vbr.wocr.tk/badge?page_id=Elijah0413.Elijah0413&color=00cf00)
 
 </head>       
 <h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
