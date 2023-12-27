@@ -16,9 +16,6 @@
 -✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿 <br>
 
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elijah0413" alt="Elijah0413" /></a> </p>
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah0413&" alt="Elijah0413" /><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Elijah0413&show_icons=true&locale=en" alt="Elijah0413" /></p>
-
 
 # UTM-e-Portfolio
 
@@ -65,4 +62,7 @@ All projects done for Data Engineering year 1 Section 02 will be stored here.�
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elijah0413" alt="Elijah0413" /></a> </p>
+<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah0413&" alt="Elijah0413" /><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Elijah0413&show_icons=true&locale=en" alt="Elijah0413" /></p>
+
 
