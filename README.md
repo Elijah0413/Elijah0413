@@ -29,3 +29,40 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+# UTM-e-Portfolio
+
+All projects done for Data Engineering year 1 Section 02 will be stored here.🤗
+
+<table>
+<tr>
+
+<td width="25%">
+<a href="https://github.com/Elijah0413/digital-logic">Digital Logic</a>
+
+</td>
+
+<td width="25%">
+<a href="https://github.com/Elijah0413/discrete-structure"> Discrete Structure </a>
+
+</td>
+
+<td width="25%">
+<a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
+
+</td>
+<td width="25%">
+<a href="https://github.com/Elijah0413/tis-technology-and-info-system"> Technology and information System (tis) </a>
+</td>
+
+</td>
+<td width="25%">
+<a href="https://github.com/Elijah0413/pt1_year1">Programming Technique 1 </a>
+</td>
+</tr>
+</table>
+
+<p align="left"><a href="https://github.com/Elijah0413/digital-logic" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStCNSLYn-TgwoOjBkOfsl6luGNZs-ypQ_WQ&usqp=CAU" alt="digital logic" width="180" height="180"/> </a> <a href="https://github.com/Elijah0413/discrete-structure" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYPhZoWPl7S28Kdjxw7E97-5ylPqQ84-Lew&usqp=CAU" alt="math" width="180" height="180"/> </a><a href="https://github.com/Elijah0413/uni_life" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OpEBkJhUH6Hdt4qh4hPEr7NY2oH3qhw_OQ&usqp=CAU" alt="uni" width="180" height="180"/> </a><a href="https://github.com/Elijah0413/tis-technology-and-info-system" target="_blank" rel="noreferrer"> <img src="https://www.aeccglobal.my/images/2022/11/08/study-information--technology-abroad.webp" alt="tis" width="180" height="180"/> </a><a href="https://github.com/Elijah0413/pt1_year1" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQe403RAdmihMRMc88j66idCzC9pu17Rmww&usqp=CAU" alt="pt1" width="180" height="180"/> </a> </p>
+
+
+
