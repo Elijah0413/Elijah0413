@@ -24,26 +24,26 @@ All projects done for Data Engineering year 1 Section 02 will be stored here.ðŸ¤
 <table>
 <tr>
 
-<td width="25%">
+<td width="20%">
 <a href="https://github.com/Elijah0413/digital-logic">Digital Logic</a>
 
 </td>
 
-<td width="25%">
+<td width="20%">
 <a href="https://github.com/Elijah0413/discrete-structure"> Discrete Structure </a>
 
 </td>
 
-<td width="25%">
+<td width="20%">
 <a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
 
 </td>
-<td width="25%">
+<td width="20%">
 <a href="https://github.com/Elijah0413/tis-technology-and-info-system"> Technology and information System (tis) </a>
 </td>
 
 </td>
-<td width="25%">
+<td width="20%">
 <a href="https://github.com/Elijah0413/pt1_year1">Programming Technique 1 </a>
 </td>
 </tr>
