@@ -12,7 +12,7 @@
        | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
    <p> | 🏫 | College :   <pre> Labuan Matriculation College   </pre></p> 
    <p> | 🏡 | University :<pre> University Technology Malaysia </pre></p>
-   <p> | 🏸 | Hobby :     <pre> Palying Badmintoon             </pre></p>
+   <p> | 🏸 | Hobby :     <pre> Playing Badmintoon             </pre></p>
 
 -✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿 <br>
 
