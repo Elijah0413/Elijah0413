@@ -10,6 +10,7 @@
 <h2 style="text-align: right"> FUN FACT: DIDN'T LIKE PRAWN A ALL💢 </h2>
    <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
        | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
+       | 📛 | matrik no :      <pre> A23CS0073           </p></pre>
    <p> | 🏫 | College :   <pre> Labuan Matriculation College   </pre></p> 
    <p> | 🏡 | University :<pre> University Technology Malaysia </pre></p>
    <p> | 🏸 | Hobby :     <pre> Playing Badmintoon             </pre></p>
